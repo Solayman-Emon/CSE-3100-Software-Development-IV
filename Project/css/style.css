@@ -1,0 +1,476 @@
+#carouselExampleIndicators{
+  height:600px;
+  width:100%;
+  overflow: hidden;
+}
+#NavDrop{
+  font-size:1.6em;
+}
+#brand{
+  font-size: 1.6em;
+}
+#flag{
+  height:1em;
+}
+#NavDrop1 {
+  font-size: 1.6em;
+}
+#image{
+      width: 200px;
+      height: 400px;
+      object-fit:none;
+}
+#PicDiv{
+  background-image: url(../image/pic/picture.jpg);
+  height:600px;
+  background-size: cover;
+  margin-top: 30px;
+}
+
+#CardImage1{
+  background-image: url(../image/top/sajek2.jpg);
+  height:200px;
+  background-size: cover;
+}
+
+#CardImage2{
+  background-image: url(../image/top/kuakata.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage3{
+  background-image: url(../image/top/ratargul.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage4{
+  background-image: url(../image/top/saintmartin.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage5{
+  background-image: url(../image/top/bisanakandi.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage6{
+  background-image: url(../image/top/sundarban.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage7{
+  background-image: url(../image/top/cox.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage8{
+  background-image: url(../image/top/nafakhum.jpg);
+  height:200px;
+  background-size: cover;
+}
+
+#CardImage9{
+  background-image: url(../image/top/sreemangal.jpg);
+  height:200px;
+  background-size: cover;
+}
+#CardImage10{
+  background-image: url(../image/top/lalbagh.jpg);
+  height:200px;
+  background-size: cover;
+}
+#ImageDiv1{
+  background-image: url(../image/top/sajek1.jpg);
+  height:400px;
+  background-size: cover;
+}
+
+#ImageDiv2{
+  background-image: url(../image/top/sajek2.jpg);
+  height:400px;
+  background-size: cover;
+}
+
+#ImageDiv3{
+  background-image: url(../image/top/kuakata2.jpg);
+  height:400px;
+  background-size: cover;
+}
+
+#ImageDiv4{
+  background-image: url(../image/top/kuakata1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv5{
+  background-image: url(../image/top/ratargul1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv6{
+  background-image: url(../image/top/ratargul.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv7{
+  background-image: url(../image/top/saintmartin.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv8{
+  background-image: url(../image/top/saintmartin1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv9{
+  background-image: url(../image/top/bisanakandi.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv10{
+  background-image: url(../image/top/bisanakandi1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv11{
+  background-image: url(../image/top/sundarban.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv12{
+  background-image: url(../image/top/sundarban1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv13{
+  background-image: url(../image/top/cox1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv14{
+  background-image: url(../image/top/cox.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv15{
+  background-image: url(../image/top/nafakhum.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv16{
+  background-image: url(../image/top/nafakhum1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv17{
+  background-image: url(../image/top/sreemangal.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv18{
+  background-image: url(../image/top/sreemangal1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv19{
+  background-image: url(../image/top/lalbagh1.jpg);
+  height:400px;
+  background-size: cover;
+}
+#ImageDiv20{
+  background-image: url(../image/top/lalbagh.jpg);
+  height:400px;
+  background-size: cover;
+}
+#bodyPic{
+  background-image: url(../image/message/massage.jpg);
+  height:100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.login-box{
+  height:700px;
+  width:500px;
+  background:rgba(0, 0, 0, 0.5);
+  color:#fff;
+  top:50%;
+  left:50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}
+.ptext{
+  font-size:20px;
+  text-align: justify;
+}
+
+#division{
+  background:rgba(0, 0, 0, 0.5);
+  color:#fff;
+  height:495px;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 575px) {
+  #text {
+    font-size: 8px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  #text {
+    font-size: 10px;
+  }
+}
+@media screen and (min-width: 768px) {
+  #text {
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 992px) {
+  #text {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  #text {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  #text1 {
+    font-size: 3px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  #text1 {
+    font-size: 8px;
+  }
+}
+@media screen and (min-width: 768px) {
+  #text1 {
+    font-size: 11px;
+  }
+}
+@media screen and (min-width: 992px) {
+  #text1 {
+    font-size: 12px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  #text1 {
+    font-size: 15px;
+  }
+}
+
+#listdiv{
+  height: 400px;
+}
+#nicher{
+  background-color: black;
+  height:70px;
+  width: 100%;
+}
+#carouselExampleIndicatorsDivision{
+  height:600px;
+  width:100%;
+  overflow: hidden;
+}
+#DhakaPic1{
+  background-image: url(../image/dhaka/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#DhakaPic2{
+  background-image: url(../image/dhaka/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#DhakaPic3{
+  background-image: url(../image/dhaka/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#DhakaPic4{
+  background-image: url(../image/dhaka/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#BarishalPic1{
+  background-image: url(../image/barishal/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#BarishalPic2{
+  background-image: url(../image/barishal/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#BarishalPic3{
+  background-image: url(../image/barishal/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#BarishalPic4{
+  background-image: url(../image/barishal/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#ChittagongPic1{
+  background-image: url(../image/chittagong/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#ChittagongPic2{
+  background-image: url(../image/chittagong/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#ChittagongPic3{
+  background-image: url(../image/chittagong/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#ChittagongPic4{
+  background-image: url(../image/chittagong/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#SylhetPic1{
+  background-image: url(../image/sylhet/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#SylhetPic2{
+  background-image: url(../image/sylhet/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#SylhetPic3{
+  background-image: url(../image/sylhet/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#SylhetPic4{
+  background-image: url(../image/sylhet/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#KhulnaPic1{
+  background-image: url(../image/khulna/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#KhulnaPic2{
+  background-image: url(../image/khulna/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#KhulnaPic3{
+  background-image: url(../image/khulna/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#KhulnaPic4{
+  background-image: url(../image/khulna/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RajshahiPic1{
+  background-image: url(../image/rajshahi/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RajshahiPic2{
+  background-image: url(../image/rajshahi/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RajshahiPic3{
+  background-image: url(../image/rajshahi/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RajshahiPic4{
+  background-image: url(../image/rajshahi/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#MymensinghPic1{
+  background-image: url(../image/mymensingh/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#MymensinghPic2{
+  background-image: url(../image/mymensingh/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#MymensinghPic3{
+  background-image: url(../image/mymensingh/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#MymensinghPic4{
+  background-image: url(../image/mymensingh/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RangpurPic1{
+  background-image: url(../image/rangpur/pic1.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RangpurPic2{
+  background-image: url(../image/rangpur/pic2.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RangpurPic3{
+  background-image: url(../image/rangpur/pic3.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#RangpurPic4{
+  background-image: url(../image/rangpur/pic4.jpg);
+  height:500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#developer1{
+  height:600px;
+}
